@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Sales Forecasting using Time Series (ARIMA & Prophet)
 
 This project demonstrates sales forecasting using both statistical and machine learning models, including ARIMA and Facebook Prophet.
@@ -58,3 +59,7 @@ sales_forecasting_project/
 ## 🤝 Author
 Akanksha Sharma  
 akankshasharma2808@gmail.com
+=======
+# sales-forecasting-time-series
+AI-powered sales forecasting app using ARIMA and Prophet, built with Python and Streamlit
+>>>>>>> 210af8fb7e87672a222664b5bb3b82c253b38fe2
